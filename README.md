@@ -20,10 +20,10 @@ Acesse o site clicando [aqui.](https://enniohenrique.github.io/bikcraft/)
 
 ## Imagens
 
-### 💻 Computador
+### Computador 💻
 
 ![image](https://user-images.githubusercontent.com/89741211/167917916-a8f337a6-791d-4926-9b9e-66574f80b6ce.png)
-### 📱 Celular
+### Celular 📱 
 
 ![image](https://user-images.githubusercontent.com/89741211/167927538-5f50f708-1b6c-4bcb-b5ab-99e951e40200.png)
 ![image](https://user-images.githubusercontent.com/89741211/167927888-1fbc8919-5c52-42b5-b8f6-5289a5d57ba4.png)
