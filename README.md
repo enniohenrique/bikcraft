@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # Bikcraft - Bicicletas Personalizadas
 
 ## Sobre o Projeto
@@ -29,4 +27,3 @@ Acesse o site clicando [aqui.](https://enniohenrique.github.io/bikcraft/)
 
 ![image](https://user-images.githubusercontent.com/89741211/167927538-5f50f708-1b6c-4bcb-b5ab-99e951e40200.png)
 ![image](https://user-images.githubusercontent.com/89741211/167927888-1fbc8919-5c52-42b5-b8f6-5289a5d57ba4.png)
->>>>>>> 4105714fb8fbf684d80892ad94e9a741599c02dc
